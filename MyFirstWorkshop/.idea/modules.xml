@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/pl.coderslab.iml" filepath="$PROJECT_DIR$/pl.coderslab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFirstWorkshop.iml" filepath="$PROJECT_DIR$/MyFirstWorkshop.iml" />
     </modules>
   </component>
 </project>
